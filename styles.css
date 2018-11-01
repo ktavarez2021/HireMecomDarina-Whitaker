@@ -1,0 +1,25 @@
+h2{
+    font-family: 'Baloo Bhaijaan', cursive;
+    color: pink;
+    background-color:black;
+}
+img{
+    width:570px;
+    border:50px groove blue;
+}
+body{
+    background-color:gray;
+}
+p{
+    font-family: 'Baloo Bhaijaan', cursive;
+    background-color:white;
+}
+    
+ul{
+    font-family: 'Baloo Bhaijaan', cursive;
+    color:pink;
+    background-color:black;
+}
+h1{
+    background-color:pink;
+}
